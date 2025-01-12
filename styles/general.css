@@ -1,0 +1,17 @@
+.text{
+    padding-top: 2rem; 
+    justify-content: center; 
+    text-align: center;
+}
+
+.image{
+    height: 40rem; border-radius: 15px;
+}
+
+.tittleH2{
+    text-align: center; font-size: 3rem;
+}
+
+a{
+    color:cadetblue; font-size: 1.5rem;
+}
